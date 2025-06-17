@@ -13,7 +13,11 @@ Purpose: To understand patterns in product sales, extract insights, and visualiz
 
 ## Business Questions Explored:
 What are the top-rated products?
+
 What is the total revenue generated?
+
 Are there notable differences between best sellers and non-best sellers?
+
 Which product category generated the highest revenue?
+
 What are the top best-selling products?
