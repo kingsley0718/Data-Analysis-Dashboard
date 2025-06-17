@@ -47,60 +47,124 @@ Joined both tables using category_id as the primary key.
 Created new calculated columns and DAX measures to support insights.
 
 ## Report Pages and Visuals
-### I.Total Revenue
+#### I.Total Revenue
 
 Visual: Card
 
 Insight: Total revenue generated across the data-set was $4.65 billion.
 
 
-### ii. Amount of Product Sold
+#### ii. Amount of Product Sold
 
 Visual: Card
 
 Insight: 203 million products were sold in total.
 
 
-### iii. Top Rated Products
+#### iii. Top Rated Products
 
 Visual: Stacked Column Chart
 
 Insight: The HD Roku Streaming Device had the highest average rating of 4.7.
 
 
-### iv. Review-to-Sales Ratio by Product Title
+#### iv. Review-to-Sales Ratio by Product Title
 
 Visual: Stacked Bar Chart
 
 Insight: Highlights customer engagement relative to sales performance.
 
 
-### v. Average Ratings by Best Seller Status
+#### v. Average Ratings by Best Seller Status
 
 Visual: Clustered Column Chart
 
 Insight: Compared customer satisfaction across best sellers vs. non-best sellers.
 
 
-### vi. Total Revenue by Product Category
+#### vi. Total Revenue by Product Category
 
 Visual: Line Chart
 
 Insight: "Kitchen and Dining" category generated the highest revenue (~$267 million).
 
 
-### vii. Top 10 Best Selling Products
+#### vii. Top 10 Best Selling Products
 
 Visual: Clustered Bar Chart
 
 Insight: Neutrogena Cleansing Fragrance was the best-selling product.
 
 
-### viii. Best Seller Filter
+#### viii. Best Seller Filter
 
 Visual: Slicer
 
 Used to toggle views between best sellers and non-best sellers.
+
+
+## Key Insights & Findings:
+#### 1; Total Revenue:
+
+Over $4.65 billion in revenue was recorded.
+
+
+#### 2; Total Units Sold:
+
+203 million units sold across all product categories.
+
+
+#### 3; Category Engagement:
+Home-related categories (e.g., Home Decor, Household Supplies, Kitchen & Dining) dominate in product purchases.
+
+
+#### 4; Top-Rated Product:
+HD Roku Streaming Device with an average rating of 4.7.
+
+
+#### 5; Best Seller Anomaly: 
+
+Non-best sellers generated $4.22 billion in revenue, significantly more than best sellers at $429 million. This suggests that volume or variety may influence revenue more than the best seller badge.
+
+
+#### 6; Top Earning Category:
+
+"Kitchen and Dining" led with $267 million in revenue.
+
+
+#### 7; Top Selling Product by Volume:
+
+Neutrogena Cleansing Fragrance.
+
+
+## Provided Recommendations based on Insights
+
+#### 1; Explore why non-best sellers dominate revenue: 
+
+Possibly due to broader variety or more competitive pricing.
+
+
+#### 2; Leverage high-performing categories: 
+
+Focus marketing and stocking on Kitchen & Dining and household-related products.
+
+
+#### 3; Use review-to-sales ratio for product strategy: 
+
+Products with high sales but low reviews can benefit from incentivized feedback campaigns.
+
+
+#### 4; Revisit Best Seller Criteria: 
+
+Evaluate how Amazon defines best sellers, as some high-performing products may be excluded.
+
+
+#### 5; Focus on customer-rated performance:
+ Products with higher average ratings (like HD Roku) could be promoted further to boost engagement.
+
+ 
+## Conclusion
+This project effectively uncovered valuable insights from Amazon’s product data-set using Power BI. The visuals and KPIs revealed significant performance differences across product types, categories, and customer ratings. These findings can guide strategic decisions in marketing, inventory, and customer satisfaction efforts.
 
 
 
