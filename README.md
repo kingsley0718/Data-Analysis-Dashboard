@@ -53,25 +53,54 @@ Visual: Card
 
 Insight: Total revenue generated across the data-set was $4.65 billion.
 
+
 ii. Amount of Product Sold
+
 Visual: Card
+
 Insight: 203 million products were sold in total.
+
+
 iii. Top Rated Products
+
 Visual: Stacked Column Chart
+
 Insight: The HD Roku Streaming Device had the highest average rating of 4.7.
+
+
 iv. Review-to-Sales Ratio by Product Title
+
 Visual: Stacked Bar Chart
+
 Insight: Highlights customer engagement relative to sales performance.
+
+
 v. Average Ratings by Best Seller Status
+
 Visual: Clustered Column Chart
+
 Insight: Compared customer satisfaction across best sellers vs. non-best sellers.
+
+
 vi. Total Revenue by Product Category
+
 Visual: Line Chart
+
 Insight: "Kitchen and Dining" category generated the highest revenue (~$267 million).
+
+
 vii. Top 10 Best Selling Products
+
 Visual: Clustered Bar Chart
+
 Insight: Neutrogena Cleansing Fragrance was the best-selling product.
+
+
 viii. Best Seller Filter
+
 Visual: Slicer
+
 Used to toggle views between best sellers and non-best sellers.
+
+
 
