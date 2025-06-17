@@ -102,6 +102,8 @@ Visual: Slicer
 
 Used to toggle views between best sellers and non-best sellers.
 
+### Dashboard Link: 
+https://drive.google.com/file/d/1ztEmHUI7svuFM2S3nx8KjQ-DnJ6CLno8/view?usp=sharing
 
 ## Key Insights & Findings:
 #### 1; Total Revenue:
