@@ -21,3 +21,28 @@ Are there notable differences between best sellers and non-best sellers?
 Which product category generated the highest revenue?
 
 What are the top best-selling products?
+
+### Approach:
+This was an exploratory project designed to assess product performance and gain insights using ratings, sales volume, and revenue as key metrics.
+
+## Data Summary
+### Data Source:
+Amazon dataset from Kaggle.
+### Tables Used:
+Category Table
+Products Table
+### Data Preparation:
+Utilized ~70% of records.
+
+Performed data cleaning in Power Query.
+
+Renamed column headers.
+
+Handled 7% missing values in the Price column using column average.
+
+Eliminated duplicates manually.
+
+Joined both tables using category_id as the primary key.
+
+Created new calculated columns and DAX measures to support insights.
+
